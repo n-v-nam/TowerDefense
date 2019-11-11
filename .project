@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TowerDefense</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>GameTower</name>
+			<type>2</type>
+			<location>E:/GameTower</location>
+		</link>
+		<link>
+			<name>GameTower/CreateMapButton.png</name>
+			<type>1</type>
+			<location>E:/GameTower/CreateMapButtonGraphic.png</location>
+		</link>
+		<link>
+			<name>GameTower/ExitButton.png</name>
+			<type>1</type>
+			<location>E:/GameTower/ExitButton.png</location>
+		</link>
+		<link>
+			<name>GameTower/SandTile.png</name>
+			<type>1</type>
+			<location>E:/GameTower/SandTile.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
